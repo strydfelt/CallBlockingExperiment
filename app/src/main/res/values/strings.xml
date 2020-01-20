@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CallScreener</string>
+    <string name="permission_rationale">This is a dialer app so its needs many permissions</string>
+</resources>
